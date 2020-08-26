@@ -30,8 +30,8 @@ html,body {
 	z-Index:          1;
 	padding:          0.25em;
 	height:           100%;
-	display:          flex;
-    justify-content:  space-between;
+        display:          flex;
+	justify-content:  space-between;
 	vertical-align:   middle;
 	border:	          var(--thickness-thin) solid;
 	border-color:     var(--shade-black);
